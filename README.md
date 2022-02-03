@@ -20,7 +20,7 @@ This project is a single page application from scratch to work as an interactive
 
 - React Docs https://reactjs.org/docs/getting-started.html
 - Weather data from openweathermap API
-- wW3schools.com
+- W3schools.com
 - For fetching data https://www.robinwieruch.de/react-fetching-data/
 - Google Fonts
 - Weather icons used in Logo from https://fontawesome.com/v5.15/icons?d=gallery&p=2
