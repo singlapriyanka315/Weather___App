@@ -13,7 +13,8 @@ This project is a single page application from scratch to work as an interactive
 
  
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+    <img src="del.jpeg" width="400px"</img> 
+  <img src="guj.jpeg" width="400px"</img> 
 </div>
 
 ## Credits
