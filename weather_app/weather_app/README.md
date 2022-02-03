@@ -13,6 +13,7 @@ This project is a single page application from scratch to work as an interactive
 
  
 ![del](https://user-images.githubusercontent.com/66158960/152345757-d3505979-9a18-4e74-bfb6-0af658cd0fa0.jpeg)
+<br><br>
 ![guj](https://user-images.githubusercontent.com/66158960/152345833-fa03544f-899f-43fd-8c21-76a3fc352891.jpeg)
 
 ## Credits
@@ -21,6 +22,6 @@ This project is a single page application from scratch to work as an interactive
 - Weather data from openweathermap API
 - wW3schools.com
 - For fetching data https://www.robinwieruch.de/react-fetching-data/
-- Quicksand font from Google Fonts
-- weather icons used in Logo by Elias Bikbulatov from https://www.flaticon.com/authors/elias-bikbulatov
+- Google Fonts
+- Weather icons used in Logo from https://fontawesome.com/v5.15/icons?d=gallery&p=2
 
