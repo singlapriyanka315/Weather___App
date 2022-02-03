@@ -12,10 +12,8 @@ This project is a single page application from scratch to work as an interactive
 - Using an error handling messages to improve the user experience.
 
  
-<div align="center">
-    <img src="del.jpeg" width="400px"</img> 
-  <img src="guj.jpeg" width="400px"</img> 
-</div>
+![del](https://user-images.githubusercontent.com/66158960/152345757-d3505979-9a18-4e74-bfb6-0af658cd0fa0.jpeg)
+![guj](https://user-images.githubusercontent.com/66158960/152345833-fa03544f-899f-43fd-8c21-76a3fc352891.jpeg)
 
 ## Credits
 
