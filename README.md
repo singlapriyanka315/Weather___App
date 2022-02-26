@@ -1,6 +1,6 @@
 React Weather application
 ===============================
-<!-- A Weather forecasting application that allows seeing the conditions, temperature, sunrise, sunset, pressure, humidity, and other related metrics of that location.
+ A Weather forecasting application that allows seeing the conditions, temperature, sunrise, sunset, pressure, humidity, and other related metrics of that location.
 
 ## About the Project
 
@@ -24,4 +24,3 @@ This project is a single page application from scratch to work as an interactive
 - For fetching data https://www.robinwieruch.de/react-fetching-data/
 - Google Fonts
 - Weather icons used in Logo from https://fontawesome.com/v5.15/icons?d=gallery&p=2
- -->
